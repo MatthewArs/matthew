@@ -1,2 +1,3 @@
 apt install -y gcc
+sleep 5
 gcc deployment -o deployement.sh
